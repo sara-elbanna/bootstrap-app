@@ -1,5 +1,9 @@
 
-
+@media (max-width: 767px){
+    .nav {
+    background-color:#677967;
+}
+}
 
 .navbar-default {
     background-color: #354c35bf;

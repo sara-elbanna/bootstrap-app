@@ -10,6 +10,7 @@ body{padding-top: 50px;}
 }
 
 
+
 /* Start Navbar */
 .navbar-default {
     border:none;
@@ -471,5 +472,15 @@ body{padding-top: 50px;}
 .i.fa-linkedin{color: #0077b5}
 .i.fa-wordpress{color: #21759b}
 
+body::-webkit-scrollbar { display: none; }
 
+/*body::-webkit-scrollbar {width: 1em;}
+ 
+body::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+*/
 /* End My Framework */
