@@ -1,4 +1,4 @@
-/* Page About */
+/* Start Page About */
 
 .about-page h1{
 	font-family: 'Titan One', cursive;
@@ -26,3 +26,32 @@
 .about-page .last-section{
 	margin-top: 40px
 }
+.about-page .last-section p{
+	width: 80%
+}
+
+/* End Page About */
+
+
+
+/* Start FAQ */
+.faq h1{
+    font-size: 3em;
+    letter-spacing: -1px;
+    margin-top: 40px;
+    margin-bottom: 30px
+}
+.faq p {
+    color: #afafaf;
+    margin-bottom: 20px;
+ }
+ .faq .questions{
+ 	margin-bottom: 40px
+ }
+/* End FAQ */
+
+
+
+
+
+
