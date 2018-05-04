@@ -69,9 +69,6 @@ body{padding-top: 50px;}
 	min-height: 260px;
 	text-align: center;
     padding: 84px;
-   /*animation: showw 1s*/
-   animation-duration: 5s;
-   opacity: 0
     
 }
 .main-about h3{
